@@ -10,6 +10,8 @@ env/
 # Model & data files
 face_model.yml
 labels.pkl
+# Dataset
+dataset/
 
 # OS files
 .DS_Store
@@ -18,3 +20,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+# Dataset
+dataset/
